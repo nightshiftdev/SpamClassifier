@@ -1,7 +1,9 @@
-# SpamClassifier
+# What is it?
 A machine learning model that has been trained to recognize spam messages.
 
-# How To Use
+# How To Use?
+
+### Swift
 
 ```
 import NaturalLanguage
