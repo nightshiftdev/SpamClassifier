@@ -9,7 +9,7 @@ import NaturalLanguage
 let input = "get money for clicking http://money.com $$$"
 var result = "unknown"
 do {
-    let msgPredictor = try NLModel(mlModel: PhishingClassifier().model)
+    let msgPredictor = try NLModel(mlModel: SpamClassifier().model)
     if let r = msgPredictor.predictedLabel(for: input) {
         result = r
     }
