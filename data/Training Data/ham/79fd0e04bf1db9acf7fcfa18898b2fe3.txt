@@ -1,0 +1,45 @@
+This is a multi-part message in MIME format.
+------=_NextPart_000_004E_01C2580D.1BC61260
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+Hi,
+I have created two databases, db1 and db2  in my POSTGRESQL database system.
+And both the databases contains few tables also.
+Could you please help me to write a query which should retrieve data from b=
+oth the databases
+(Database joins and table joins)
+Expecting and earliest reply
+Regards
+Jay
+------=_NextPart_000_004E_01C2580D.1BC61260
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-1">
+<META content=3D"MSHTML 6.00.2719.2200" name=3DGENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=3D#ffffff>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>Hi,</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>I have created two databas=
+es,=20
+db1&nbsp;and db2 &nbsp;in my POSTGRESQL database system.</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>And both the databases con=
+tains few=20
+tables also.</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>Could you please help me t=
+o write a=20
+query which should retrieve data from both the databases</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>(Database joins and table=
+=20
+joins)</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>Expecting and earliest=20
+reply</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>Regards</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2>Jay</FONT></DIV>
+<DIV><FONT face=3DArial color=3D#800080 size=3D2></FONT>&nbsp;</DIV></BODY>=
+</HTML>
+------=_NextPart_000_004E_01C2580D.1BC61260--
